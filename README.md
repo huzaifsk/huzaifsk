@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/huzaifshaikh"><img src="https://api.daily.dev/devcards/5237361a65144f788955ed98c1325ff3.png?r=r8n" width="400" alt="Huzaif shaikh's Dev Card"/></a>
 <!--
 **huzaifsk/huzaifsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
