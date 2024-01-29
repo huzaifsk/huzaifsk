@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifsk&layout=compact)](https://github.com/huzaifsk)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=huzaifsk)
+![Badge](https://img.shields.io/badge/Badge-Label-brightgreen)
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifsk&show_icons=true&theme=radical)](https://github.com/huzaifsk)
+[![Daily.dev](https://api.daily.dev/devcards/5237361a65144f788955ed98c1325ff3.png?r=r8n)](https://app.daily.dev/huzaifshaikh)
 
 <a href="https://app.daily.dev/huzaifshaikh"><img src="https://api.daily.dev/devcards/5237361a65144f788955ed98c1325ff3.png?r=r8n" width="400" alt="Huzaif shaikh's Dev Card"/></a>
