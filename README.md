@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifsk&layout=compact)](https://github.com/huzaifsk)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=huzaifsk)
+![Activity Graph](http://activity-graph.herokuapp.com/graph?username=huzaifsk)
 
 ![Badge](https://img.shields.io/badge/Badge-Label-brightgreen)
 
