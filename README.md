@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifsk&show_icons=true&theme=radical)](https://github.com/huzaifsk)
+
 <a href="https://app.daily.dev/huzaifshaikh"><img src="https://api.daily.dev/devcards/5237361a65144f788955ed98c1325ff3.png?r=r8n" width="400" alt="Huzaif shaikh's Dev Card"/></a>
