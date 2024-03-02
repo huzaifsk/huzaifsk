@@ -20,7 +20,7 @@ I'm a seasoned developer with over 2 years of experience, specializing in front-
 
 #### Top Technologies and Tools:  #### GitHub Stats:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifsk&layout=compact)](https://github.com/huzaifsk)
-/* ![Badge](https://img.shields.io/badge/Badge-Label-brightgreen) */
+![Badge](https://img.shields.io/badge/Badge-Label-brightgreen)
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifsk&show_icons=true&theme=radical)](https://github.com/huzaifsk)
 
 
