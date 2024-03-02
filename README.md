@@ -27,3 +27,6 @@ I'm a seasoned developer with over 2 years of experience, specializing in front-
 
 #### Developer Activity:
 <a href="https://app.daily.dev/huzaifshaikh"><img src="https://api.daily.dev/devcards/5237361a65144f788955ed98c1325ff3.png?r=r8n" width="400" alt="Huzaif shaikh's Dev Card"/></a>
+
+#### Developer Activity:
+<a href="https://app.daily.dev/huzaifshaikh"><img src="https://api.daily.dev/devcards/v2/Ui4Y653H03acRsx51Db05.png?type=default&r=wcw" width="356" alt="Huzaif shaikh's Dev Card"/></a>
