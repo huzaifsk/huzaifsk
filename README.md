@@ -14,6 +14,11 @@ I'm a seasoned developer with over 2 years of experience, specializing in front-
 
 📫 **How to Reach Me:** Feel free to connect with me on [LinkeIn](https://www.linkedin.com/in/huzaif-shaikh/), [Twitter](https://twitter.com/Huzaif__Shaikh) or [LinkTree](https://linktr.ee/huzaif_shaikh)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-shaikh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Huzaif__Shaikh)
+[![LinkTree](https://img.shields.io/badge/-LinkTree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/huzaif_shaikh)
+
+
 
 😄 **Pronouns:** He/Him
 
