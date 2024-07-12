@@ -12,7 +12,7 @@ I'm a seasoned developer with over 2 years of experience, specializing in front-
 
 💬 **Ask Me About:** Anything related to React, JavaScript, or front-end development. I'm always open to discussing new ideas and challenges.
 
-📫 **How to Reach Me:** Feel free to connect with me on [[LinkedIn](https://icons8.com/icon/447/linkedin)](https://www.linkedin.com/in/huzaif-shaikh/), [Twitter](https://twitter.com/Huzaif__Shaikh) or [LinkTree](https://linktr.ee/huzaif_shaikh)
+📫 **How to Reach Me:** Feel free to connect with me on [(https://icons8.com/icon/447/linkedin)](https://www.linkedin.com/in/huzaif-shaikh/), [Twitter](https://twitter.com/Huzaif__Shaikh) or [LinkTree](https://linktr.ee/huzaif_shaikh)
 
 
 😄 **Pronouns:** He/Him
