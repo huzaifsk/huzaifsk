@@ -65,7 +65,7 @@ Feel free to connect with me on:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=onedark" />
 </p>
 
 ## 📈 Developer Activity
@@ -77,5 +77,5 @@ Feel free to connect with me on:
 
 ## 🌟 GitHub Contributions
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=huzaifsk&theme=rogue" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
 </p>
