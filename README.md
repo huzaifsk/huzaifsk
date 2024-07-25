@@ -55,7 +55,7 @@ Feel free to connect with me on:
 
 ## 🛠️ Top Technologies and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,vscode,figma,bootstrap,redux" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,vscode,figma,bootstrap,gitlab,slack,clickup,jquery,laravel" />
 </p>
 
 ## 📊 GitHub Stats
