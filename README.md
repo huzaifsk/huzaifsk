@@ -55,7 +55,7 @@ Feel free to connect with me on:
 
 ## 🛠️ Top Technologies and Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifsk&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,vscode,figma,bootstrap,redux" />
 </p>
 
 ## 📊 GitHub Stats
@@ -65,7 +65,7 @@ Feel free to connect with me on:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=dracula" />
 </p>
 
 ## 📈 Developer Activity
@@ -77,5 +77,20 @@ Feel free to connect with me on:
 
 ## 🌟 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huzaifsk&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🚀 Fun Facts
+- I love coding and building new projects.
+- I'm a huge fan of Ronaldo ⚽️
+- I enjoy playing games and exploring new technologies.
+
+---
+
+<p align="center">
+  <a href="https://github.com/huzaifsk">
+    <img src="https://img.shields.io/github/followers/huzaifsk?label=Follow&style=social" />
+  </a>
 </p>
