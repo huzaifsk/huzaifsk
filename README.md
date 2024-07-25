@@ -77,7 +77,7 @@ Feel free to connect with me on:
 
 ## 🌟 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huzaifsk&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
