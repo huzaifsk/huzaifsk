@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/huzaifsk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=60&lines=Front-End+Developer;React+Enthusiast;JavaScript+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=60&lines=Hello+World;Software+Engineer;React+Enthusiast;JavaScript+Lover;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
