@@ -65,7 +65,7 @@ Feel free to connect with me on:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=flat" />
 </p>
 
 ## 📈 Developer Activity
