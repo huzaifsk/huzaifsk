@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">  
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=huzaifsk&style=flat-square&color=blue)](https://github.com/huzaifsk)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-shaikh/)
@@ -76,6 +77,7 @@ Feel free to connect with me on:
 </p>
 
 <div align="center">
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifsk&theme=dark)](https://git.io/streak-stats)
 </div>
 
