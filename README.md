@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on: Enhancing my React skills
 - 🌱 Learning: React Native
-- 💼 Experience: 2+ years in professional software development
+- 💼 Experience: 2.5+ years in professional software development
 - 👯 Looking to collaborate on: Innovative projects with cutting-edge technologies
 - 💬 Ask me about: React, JavaScript, or front-end development
 - 😄 Pronouns: He/Him
@@ -46,7 +46,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=react-dark" alt="Contribution Graph" />
 </details>
 
-<details>
+<details align="center">
   <summary>🏆 GitHub Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </details>
@@ -55,8 +55,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&repo=project-name&theme=dark)](https://github.com/huzaifsk/project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&repo=another-project&theme=dark)](https://github.com/huzaifsk/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&theme=dark)](huzaif-shaikh-portfolio.vercel.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&theme=dark)]([https://github.com/huzaifsk/another-project](https://madeeasymeals.com/))
 
 </div>
 
