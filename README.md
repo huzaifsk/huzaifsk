@@ -72,14 +72,14 @@ Feel free to connect with me on:
 </p>
 
 ## 🌟 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
-</p>
-
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifsk&theme=dark)](https://git.io/streak-stats)
 </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
