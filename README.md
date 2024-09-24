@@ -6,21 +6,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifsk&style=flat-square&color=blue" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/huzaif-shaikh/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Huzaif__Shaikh">
-    <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/huzaif_shaikh">
-    <img src="https://img.shields.io/badge/-LinkTree-39E09B?style=flat&logo=linktree&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-shaikh/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Huzaif__Shaikh)
+  [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/huzaif_shaikh)
 
 ---
 
@@ -44,9 +32,9 @@
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-shaikh/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Huzaif__Shaikh)
-[![LinkTree](https://img.shields.io/badge/-LinkTree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/huzaif_shaikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-shaikh/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Huzaif__Shaikh)
+  [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/huzaif_shaikh)
 
 ## 😄 Pronouns
 - He/Him
@@ -80,7 +68,9 @@ Feel free to connect with me on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=github" alt="GitHub Activity Graph" />
 </p>
 
+<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifsk&theme=dark)](https://git.io/streak-stats)
+</div>
 
 ---
 
