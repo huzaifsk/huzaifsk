@@ -46,19 +46,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifsk&theme=react-dark" alt="Contribution Graph" />
 </details>
 
-<details align="center">
+<details>
   <summary>🏆 GitHub Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=huzaifsk&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </details>
-
-## 💡 Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&theme=dark)](huzaif-shaikh-portfolio.vercel.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huzaifsk&theme=dark)]([https://github.com/huzaifsk/another-project](https://madeeasymeals.com/))
-
-</div>
 
 ## 🎯 Quick Facts
 
