@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center" >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=130&section=header&text=Huzaif%20Shaikh&fontSize=40&fontColor=fff&animation=fadeIn" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=200&section=header&text=Huzaif%20Shaikh&fontSize=40&fontColor=fff&animation=fadeIn" alt="banner" width="100%"/>
 </div>
 
 <!--<p align="center">
