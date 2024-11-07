@@ -104,5 +104,5 @@ Feel free to connect with me on:
 
 <!-- Banner Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=150&section=footer" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=150&section=footer" alt="footer banner" width="100%"/>
 </div>
