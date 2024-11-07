@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/huzaifsk" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Huzaif+Shaikh;Software+Engineer+🧑‍💻;React+Enthusiast+🚀;JavaScript+Lover+🫶🏻;Building+User-Centric+Applications;Lifelong+Learner+%26+Technologist+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Hey!+I'm+Huzaif+Shaikh;Software+Engineer+🧑‍💻;React+Enthusiast+🚀;JavaScript+Lover+🫶🏻;Lifelong+Learner+%26+Technologist+✨" alt="Typing SVG" />
   </a>
 </p>
 
