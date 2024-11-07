@@ -6,26 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/huzaifsk/huzaifsk/blob/main/assets/wave.gif" width="50px" height="50px" alt="Waving hand"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/huzaif-shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Huzaif__Shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linktr.ee/huzaif_shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkTree-43E500?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifsk&style=flat-square&color=90e0ef" alt="Profile Views"/>
-</p>
-
 
 <div align="center">  
 
