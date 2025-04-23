@@ -3,17 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0052D4&height=200&section=header&text=Huzaif%20Shaikh&fontSize=40&fontColor=fff&animation=fadeIn" alt="banner" width="100%"/>
 </div>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://github.com/huzaifsk" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+🧑‍💻;React+Enthusiast+🚀;JavaScript+Lover+🫶🏻;Lifelong+Learner+🌱;Technologist+✨" alt="Typing SVG" />
   </a>
-</p> -->
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=40&lines=Welcome+to+my+GitHub!+🌟;Software+Engineer;React+Developer;JavaScript+Enthusiast;+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
-
+</p> 
 
 <div align="center">  
 
