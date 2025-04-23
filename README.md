@@ -43,9 +43,6 @@ Feel free to connect with me on:
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Huzaif__Shaikh)
   [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/huzaif_shaikh)
 
-## 😄 Pronouns
-- He/Him
-
 ---
 
 ## 🛠️ Top Technologies and Tools
@@ -84,16 +81,7 @@ Feel free to connect with me on:
 
 ## 🚀 Fun Facts
 - I love coding and building new projects.
-- I'm a huge fan of Ronaldo ⚽️
 - I enjoy playing games and exploring new technologies.
-
----
-
-<p align="center">
-  <a href="https://github.com/huzaifsk">
-    <img src="https://img.shields.io/github/followers/huzaifsk?label=Follow&style=social" />
-  </a>
-</p>
 
 
 <!-- Banner Footer -->
